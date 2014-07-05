@@ -24,8 +24,8 @@
 <footer id="footer">
   <div class="container">
     <div class="social-media">
-      <a href="http://www.twitter.com/thelizponce"><span><img src="wp-content/uploads/2014/05/Twitter_Icon.png" /></span></a>
-      <a href="http://www.linkedin/in/lizponce"><span><img src="wp-content/uploads/2014/05/LinkedIn_Icon.png" /></span></a>
+      <a href="http://www.twitter.com/thelizponce"><span><img src="http://www.lizponce.com/wp-content/uploads/2014/05/Twitter_Icon.png" /></span></a>
+      <a href="http://www.linkedin.com/in/lizponce"><span><img src="http://www.lizponce.com/wp-content/uploads/2014/05/LinkedIn_Icon.png" /></span></a>
     </div>
   </div><!-- /container -->
 </footer><!-- end #footer -->

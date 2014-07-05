@@ -32,7 +32,7 @@
 
             
 
-                <div class="work-post">
+                <div class="col-md-4">
                   <section class="post-entry">
                     <?php if ( has_post_thumbnail()) : ?>
                     <a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>" >
